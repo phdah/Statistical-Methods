@@ -1,5 +1,4 @@
 ######### Home assignment 1 ######### 
-# AA's part
 # Philip Dahlqvist-Sjöberg
 # 18-05-2020
 # NOTE: Run all these libraries first.
